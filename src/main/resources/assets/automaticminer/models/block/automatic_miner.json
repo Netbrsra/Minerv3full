@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "ambientocclusion": true,
+  "textures": {
+    "particle": "automaticminer:blocks/miner_side",
+    "down": "automaticminer:blocks/miner_bottom",
+    "up": "automaticminer:blocks/miner_top",
+    "north": "automaticminer:blocks/miner_front",
+    "south": "automaticminer:blocks/miner_side",
+    "west": "automaticminer:blocks/miner_side",
+    "east": "automaticminer:blocks/miner_side"
+  }
+}
